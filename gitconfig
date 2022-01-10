@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ann-christin.klein@gmx.net
+	name = Ann-Christin Klein ann-christin.klein@gmx.net
